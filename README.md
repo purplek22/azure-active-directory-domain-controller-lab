@@ -46,7 +46,8 @@ This lab simulates an enterprise environment where centralized identity and acce
 
 A Windows Server 2022 virtual machine was deployed in Azure.
 
-![VM Deployment](activedirectory/DomainControllerss.png)
+[VM Deployment]<img width="1124" height="1172" alt="vmdeployment" src="https://github.com/user-attachments/assets/669986a1-73e7-40cf-8ce4-ce51ad41bf55" />
+ss.png)
 
 ---
 
@@ -54,7 +55,8 @@ A Windows Server 2022 virtual machine was deployed in Azure.
 
 The AD DS role was installed using Server Manager.
 
-![AD DS Installation](activedirectory/adinstall.png)
+![AD DS Installation]<img width="1295" height="1017" alt="adinstall" src="https://github.com/user-attachments/assets/a62656b2-6cfe-4106-9ec4-8a312c1074dd" />
+
 
 ---
 
@@ -64,7 +66,8 @@ The server was promoted to a Domain Controller and a new forest was created.
 
 Domain Name: (lab.local)
 
-![Domain Promotion](activedirectory/domainpromo.png)
+[Domain Promotion]
+<img width="762" height="558" alt="domainpromo" src="https://github.com/user-attachments/assets/57a6275b-7fb5-41c7-8a0a-eec585750fb4" />
 
 ---
 
@@ -72,7 +75,8 @@ Domain Name: (lab.local)
 
 Organizational Units were created to simulate departmental structure. Domain users were added for identity management testing.
 
-![Users Created](activedirectory/users.png)
+[Users Created]<img width="643" height="400" alt="users" src="https://github.com/user-attachments/assets/f255bba9-51c3-4283-84de-204713cad596" />
+
 
 ---
 
@@ -80,7 +84,8 @@ Organizational Units were created to simulate departmental structure. Domain use
 
 Basic password and account lockout policies were configured.
 
-![Group Policy](activedirectory/grouppolicy.png)
+[Group Policy]<img width="565" height="117" alt="grouppolicy" src="https://github.com/user-attachments/assets/b6c01fce-d12c-41ac-afe6-5bec49c0a3b5" />
+
 
 ---
 
